@@ -4,11 +4,11 @@ Pembuatan Web Server
 # Web Server
 
 # SERVICE
-1. Apache2
-2. SSH
+1. SSH
+2. Apache2
 3. Mariadb 10.3.38
-4. PHP
-5. WordPress 6.3.2
+4. PHP8
+5. Wordpress 6.3.2
 
 # Tools
 1. VirtualBox
