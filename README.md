@@ -1,5 +1,5 @@
 # FINAL_PROJECT
-Pembuatan Web Server
+Pembuatan Web Server 
 
 # Web Server
 
@@ -9,6 +9,7 @@ Pembuatan Web Server
 3. Mariadb 10.3.38
 4. PHP8
 5. Wordpress 6.3.2
+6. Webmin
 
 # Tools
 1. VirtualBox
@@ -18,6 +19,9 @@ Pembuatan Web Server
 1. 17/10/2023, Install Ubuntu Server 22.04
 2. 17/10/2023, Install SSH
 3. 17/10/2023, Install Apache2
-4. 17/10/2023, Install Mariadb 10.3.38
-5. 17/10/2023, Install PHP
-6. 17/10/2023, Install WordPress 6.3.2
+   ![image](https://github.com/rayyanabdie/Final_Project/assets/148295618/5073dc5e-ac3d-4acc-9f35-bb53973acb24)
+
+5. 17/10/2023, Install Mariadb 10.3.38
+6. 17/10/2023, Install PHP
+7. 17/10/2023, Install WordPress 6.3.2
+8. 25/11/2023, Install Webmin
