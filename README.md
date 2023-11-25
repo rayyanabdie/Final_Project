@@ -2,12 +2,12 @@
 Pembuatan Web Server 
 
 # SERVICE
-1. SSH
-2. Apache2
-3. Mariadb 10.3.38
-4. PHP8
-5. Wordpress 6.3.2
-6. Webmin
+1. SSH                   (Supaya bisa di remote tanpa harus masuk ke VM)
+2. Apache2               (Sebagai Service Web Servernya)
+3. Mariadb 10.3.38       (Sebagai Database)
+4. PHP8                  (Backend dari Wordpress)
+5. Wordpress 6.3.2       (Service yang dijalankan di dalam Web Server)
+6. Webmin                (Untuk memonitoring kinerja VM saya)
 
 # Tools
 1. VirtualBox
