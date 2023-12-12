@@ -7,7 +7,6 @@ Pembuatan Web Server
 3. Mariadb 10.3.38       (Sebagai Database)
 4. PHP8                  (Backend dari Wordpress)
 5. Wordpress 6.3.2       (Service yang dijalankan di dalam Web Server)
-6. Webmin                (Untuk memonitoring kinerja VM saya)
 
 # Tools
 1. VirtualBox
@@ -42,13 +41,4 @@ Pembuatan Web Server
    
 
    ![image](https://github.com/rayyanabdie/Final_Project/assets/148295618/2fac3784-1fc3-4d51-a590-5d3781ad18d0)
-
-
-8. Install Webmin
-    
-   ![image](https://github.com/rayyanabdie/Final_Project/assets/148295618/42996c6f-e851-4f42-9f15-8424658295a7)
-
-   ![image](https://github.com/rayyanabdie/Final_Project/assets/148295618/192ff24b-815c-49fc-84ab-0936a17c58ad)
-
-   ![image](https://github.com/rayyanabdie/Final_Project/assets/148295618/5f113356-62ba-4738-ae7a-4c1c38b1dde1)
 
