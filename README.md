@@ -6,7 +6,7 @@ Pembuatan Web Server
 2. Apache2               (Sebagai Service Web Servernya)
 3. Mariadb 10.3.38       (Sebagai Database)
 4. PHP8                  (Backend dari Wordpress)
-5. Wordpress 6.3.2       (Service yang dijalankan di dalam Web Server)
+5. Wordpress 6.4.1       (Service yang dijalankan di dalam Web Server)
 
 # Tools
 1. VirtualBox
@@ -35,7 +35,7 @@ Pembuatan Web Server
    
    ![image](https://github.com/rayyanabdie/Final_Project/assets/148295618/8022c93d-6514-4225-ba7a-932af50dd1b4)
 
-7. Install WordPress 6.3.2
+7. Install WordPress 6.4.1
     
    ![image](https://github.com/rayyanabdie/Final_Project/assets/148295618/8729d29f-e871-496b-a818-09a727428a66)
    
