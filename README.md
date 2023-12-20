@@ -1,16 +1,16 @@
 # FINAL_PROJECT
 Pembuatan Web Server 
 
-# SERVICE
+# Tools
+1. VirtualBox
+2. ISO Ubuntu Server 22.04.03 LTS
+
+   # SERVICE
 1. SSH                   (Supaya bisa di remote tanpa harus masuk ke VM)
 2. Apache2               (Sebagai Service Web Servernya)
 3. Mariadb 10.3.38       (Sebagai Database)
 4. PHP8                  (Backend dari Wordpress)
 5. Wordpress 6.4.1       (Service yang dijalankan di dalam Web Server)
-
-# Tools
-1. VirtualBox
-2. ISO Ubuntu Server 22.04.03 LTS
 
 # PROGRESS
 1. Install Ubuntu Server 22.04
